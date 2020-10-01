@@ -1,2 +1,2 @@
 # SolucionesMoviles
-Repositorio de clases
+Repositorio de clases Carlos Gomez Pino
